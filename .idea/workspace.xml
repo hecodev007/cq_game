@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="954ada5d-048a-4539-acad-342874d7aa66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CYNYIrLXbDhayI4MAt7o6RQOyR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/cq/soli/scripts/mainnet&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cq\soli\scripts\mainnet" />
+      <recent name="D:\cq\soli\scripts" />
+      <recent name="D:\cq\soli\contracts\pool" />
+      <recent name="D:\cq\soli\contracts\nft" />
+      <recent name="D:\cq\soli\scripts\test" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1659080877649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659080877649</updated>
+      <workItem from="1659080881139" duration="123000" />
+      <workItem from="1659081019944" duration="363000" />
+      <workItem from="1659081398655" duration="2780000" />
+      <workItem from="1659145664254" duration="12331000" />
+      <workItem from="1659315917228" duration="9364000" />
+      <workItem from="1659409204940" duration="21857000" />
+      <workItem from="1659657183769" duration="56905000" />
+      <workItem from="1660181882136" duration="13360000" />
+      <workItem from="1660266707039" duration="40316000" />
+      <workItem from="1660567674223" duration="30567000" />
+      <workItem from="1660786478242" duration="13586000" />
+      <workItem from="1660827372278" duration="28433000" />
+      <workItem from="1661348132702" duration="10557000" />
+      <workItem from="1661509204190" duration="12362000" />
+      <workItem from="1661679313796" duration="546000" />
+      <workItem from="1661751875433" duration="4887000" />
+      <workItem from="1661910592132" duration="1000" />
+      <workItem from="1661910844811" duration="5831000" />
+      <workItem from="1662364159319" duration="8874000" />
+      <workItem from="1662515758164" duration="10148000" />
+      <workItem from="1663035315835" duration="7685000" />
+      <workItem from="1663549633492" duration="1664000" />
+      <workItem from="1664352775442" duration="626000" />
+      <workItem from="1664470272258" duration="582000" />
+      <workItem from="1664500068435" duration="1170000" />
+      <workItem from="1665133164740" duration="1171000" />
+      <workItem from="1665540680795" duration="587000" />
+      <workItem from="1665709483579" duration="1170000" />
+      <workItem from="1666058909329" duration="2517000" />
+      <workItem from="1666539159053" duration="791000" />
+      <workItem from="1666581918657" duration="1122000" />
+      <workItem from="1668759270236" duration="470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
